@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  background-color: #3C4048;
+}
+.intro{
+  background-image: url("https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/ee29ee2f-c525-4685-8a93-eb62025c34d1._CR0,0,1200,628_SX810_QL70_.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size:cover;
+background-attachment: fixed;
+height: 700px;
+}
+.intro h1{
+  padding-top: 200px;
+  color: white;
+  font-size: 100px;
+}
+
+.cardss{
+  display: flex;
+  flex-direction: row;
+}
+.pnc{
+  width: 190px;
+}
+.card {
+  margin: 10px;
+}
+.lap{
+  width: 190px;
+}
+.foot{
+  margin-top: 50px;
+  color: white;
+  background-color: #181818;
+  padding: 2px;
+}
+.btne{
+  margin-top: 30px;
+}
